@@ -10,6 +10,7 @@ Cartridge-Vendor: nwei
 License: GPL
 Vendor: Oracle
 Categories:
+  - external
   - service
   - database
   - embedded
